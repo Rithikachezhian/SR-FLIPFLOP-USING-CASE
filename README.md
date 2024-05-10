@@ -80,7 +80,7 @@ endmodule
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/Rithikachezhian/SR-FLIPFLOP-USING-CASE/assets/145742406/2e5a6f09-47fc-4dd5-8d76-016387f74512)
+![image](https://github.com/Rithikachezhian/SR-FLIPFLOP-USING-CASE/assets/145742406/24068bd3-f0bd-417b-9f9c-dd5337ec691e)
 
 **RESULTS**
 
